@@ -29,10 +29,6 @@ I would like to give credit to my Varsity Tutor for helping me understand how to
 <a>google:<a href="#">https://www.w3resource.com/javascript-exercises/javascript-date-exercise-13.php
 <a>google:<a href="#">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
 <a>google:<a href="#">https://www.w3schools.com/jsref/jsref_sort.asp
-<a>google:<a hred="#">
-<a>google:<a hred="#">
-<a>google:<a hred="#">
-<a>google:<a hred="#">
 
 ## Features
 This work day scheduler was built with HTML 5, CSS, javaScript and jQuery
