@@ -37,7 +37,7 @@ var createHourBlock = function (hour, initialDescriptionValue){
   var block = $(
     `
       <div class="row time-block">
-        <div class="col-md-1 hour">
+        <div class="col-md-12 hour">
         ` + renderHourText(hour) + `
         </div>
         <textarea class="col-md-10 descr"></textarea>
@@ -63,13 +63,14 @@ update();
 setInterval(update, 60000);
 return block;
 };
+//create variable with render hour text with a function of hour, how many hours in the day? figure out why time is rolling into 13 instead of 1pm
 var renderHourText= function(hour){
-  var number= (hour % 12) || 12
+  var number= (hour % 24) || 12
   var period= hour < 12 ?"am":"pm"
   return number + period
 };
 
-
+//create variable update time category with a function block hour to give it blocks in avaivle time slot, variable current hour gives your current hour
 var updateTimeCategory= function(block, hour){
   block.removeClass= ("past present future");
   var currentHour= moment().hours();
@@ -77,7 +78,7 @@ var updateTimeCategory= function(block, hour){
   var timeCategory= hour<currentHour? "past":hour===currentHour? "present":hour>currentHour?"future":undefined;
   block.addClass(timeCategory);
 };
-
+//line 66 but doesnt roll into 1pm something is matching up
 const morning = 9
 const evening = 17 
 

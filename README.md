@@ -11,7 +11,7 @@ The Work Day Planner starts to function with the current day displayed at the to
 
 ## Credits
 * [Credits]
-I would like to give credit to my Varsity Tutor for helping me understand how to use javascript building a code-quiz.  I have learned so much on this assignment. Really taking the time to explain how to read and understand the acceptance criteria to generate code and using google.
+I would like to give credit to my Varsity Tutor for helping me understand how to use javascript and jQuery.  I have learned so much on this assignment. Really taking the time to explain how to read and understand the acceptance criteria to generate code and using google.
 
 ## Table of Contents
 [Description]
@@ -23,19 +23,19 @@ I would like to give credit to my Varsity Tutor for helping me understand how to
 
 ## Study Material
 <a>google:<a href="#">https://momentjs.com/docs/#/displaying/calendar-time/
-<a>google:<a href="#">
-<a>google:<a href="#">
-<a>google:<a href="#">
-<a>google:<a href="#">
-<a>google:<a href="#">
-<a>google:<a href="#">
+<a>google:<a href="#">https://www.w3schools.com/bootstrap4/bootstrap_jumbotron.asp
+<a>google:<a href="#">https://momentjs.com/docs/#/displaying/format/
+<a>google:<a href="#">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+<a>google:<a href="#">https://www.w3resource.com/javascript-exercises/javascript-date-exercise-13.php
+<a>google:<a href="#">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+<a>google:<a href="#">https://www.w3schools.com/jsref/jsref_sort.asp
 <a>google:<a hred="#">
 <a>google:<a hred="#">
 <a>google:<a hred="#">
 <a>google:<a hred="#">
 
 ## Features
-This code-quiz was built with HTML 5, CSS 3 and JavaScript.
+This work day scheduler was built with HTML 5, CSS, javaScript and jQuery
 
 ## Links
 [Repository](https://github.com/jmoniz155/work-day-scheduler)
@@ -43,35 +43,4 @@ This code-quiz was built with HTML 5, CSS 3 and JavaScript.
 [Live Website](https://jmoniz155.github.io/work-day-scheduler/)
 
 
-
-## Credits
-* [Credits]
-I would like to give credit to my Varsity Tutor for helping me understand how to use javascript building a code-quiz.  I have learned so much on this assignment. Really taking the time to explain how to read and understand the acceptance criteria to generate code and using google.
-
-## Table of Contents
-[Description]
-[googleLinks]
-[Features]
-[Repository]
-[liveWebsite]
-
-
-## Study Material
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-<a>mozilla:<a href="#">
-
-
-## Features
-This code-quiz was built with HTML 5, CSS 3 and JavaScript.
-
-## Links
-[Repository](https://github.com/jmoniz155/code-quiz)
-
-[Live Website](https://jmoniz155.github.io/code-quiz/)
 
